@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/reuschj/birdr-foundation-swift.git",
         "state": {
           "branch": null,
-          "revision": "693a04e3072567572e29d407741301af9a8b81dd",
-          "version": "0.0.14"
+          "revision": "d42843ebb6526e8511560217243657a7395695cd",
+          "version": "0.0.15"
         }
       }
     ]

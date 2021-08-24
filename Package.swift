@@ -24,7 +24,7 @@ let package = Package(
         .package(
             name: "BirdrFoundation",
             url: "https://github.com/reuschj/birdr-foundation-swift.git",
-            from: "0.0.14"
+            from: "0.0.15"
         ),
         .package(
             url: "https://github.com/Alamofire/Alamofire.git",
