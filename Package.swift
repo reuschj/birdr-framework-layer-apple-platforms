@@ -53,6 +53,9 @@ let package = Package(
             dependencies: ["BirdrAPIFoundation"]),
         .testTarget(
             name: "BirdrAPIClientTests",
-            dependencies: ["BirdrAPIClient", "BirdrAPIFoundation"])
+            dependencies: [
+                "BirdrAPIClient",
+                "BirdrAPIFoundation"
+            ])
     ]
 )
